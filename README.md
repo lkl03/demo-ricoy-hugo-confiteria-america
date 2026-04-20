@@ -1,2 +1,7 @@
-# demo-ricoy-hugo-confiteria-america
-Demo web para RICOY Hugo (Confitería América) — diseñada por eterlab.
+# RICOY Hugo (Confitería América)
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
